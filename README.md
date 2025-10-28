@@ -73,16 +73,16 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 8. Edit the generated main program as required.
    ![WhatsApp Image 2025-10-28 at 23 08 31_6f0f8092](https://github.com/user-attachments/assets/5b88a777-e229-46fd-baa5-79a9ca832e22)
 
-![WhatsApp Image 2025-10-28 at 23 09 14_e5c774c8](https://github.com/user-attachments/assets/50016e15-3e86-4788-bcbd-2b2e2636136a)
 
 
 9. Click **Project → Build All**.
   ![WhatsApp Image 2025-10-28 at 23 09 14_e5c774c8](https://github.com/user-attachments/assets/50016e15-3e86-4788-bcbd-2b2e2636136a)
 
 10. Link the **HEX file** using the post-build process.
+
     ![WhatsApp Image 2025-10-28 at 23 09 37_8ede9574](https://github.com/user-attachments/assets/7b4fa05a-7faa-444b-bbad-b4cf9ba81bf7)
 
-11. Click **Debug** and connect the **STM Nucleo Board**.
+12. Click **Debug** and connect the **STM Nucleo Board**.
      ![WhatsApp Image 2025-10-28 at 23 10 03_f75f39fb](https://github.com/user-attachments/assets/f81c5435-12c6-4a5d-a015-699bd617f508)
 
 13. Click **Run** to execute the program.
