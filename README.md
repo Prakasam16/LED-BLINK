@@ -67,20 +67,23 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 
 
 7. Save the configuration (`Ctrl + S`) – the base C program will be generated automatically.
-   <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/dbf4b205-5db9-4e9b-8150-94f441c8b116" />
+  ![Screenshot 2025-10-28 223239](https://github.com/user-attachments/assets/e19f7ec0-204f-4928-9fbd-580aa6c3b9bf)
+
  
 8. Edit the generated main program as required.
-   <img width="1110" height="624" alt="image" src="https://github.com/user-attachments/assets/05b39060-35d6-420d-9f4d-8721439bd82f" />
-<img width="1104" height="621" alt="image" src="https://github.com/user-attachments/assets/2ec55709-a45f-4e6e-8738-6aa94138eab1" />
+   ![WhatsApp Image 2025-10-28 at 23 08 31_6f0f8092](https://github.com/user-attachments/assets/5b88a777-e229-46fd-baa5-79a9ca832e22)
+
+![WhatsApp Image 2025-10-28 at 23 09 14_e5c774c8](https://github.com/user-attachments/assets/50016e15-3e86-4788-bcbd-2b2e2636136a)
+
 
 9. Click **Project → Build All**.
-    <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/264cd0a8-3e96-4668-822e-838ecfafc527" />
+  ![WhatsApp Image 2025-10-28 at 23 09 14_e5c774c8](https://github.com/user-attachments/assets/50016e15-3e86-4788-bcbd-2b2e2636136a)
 
 10. Link the **HEX file** using the post-build process.
-    <img width="1053" height="465" alt="image" src="https://github.com/user-attachments/assets/478187a0-0ee6-4c50-9cac-c3b5ee18521b" />
+    ![WhatsApp Image 2025-10-28 at 23 09 37_8ede9574](https://github.com/user-attachments/assets/7b4fa05a-7faa-444b-bbad-b4cf9ba81bf7)
 
 11. Click **Debug** and connect the **STM Nucleo Board**.
-    <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/f72fff44-6073-4ae4-aa78-0da455df9af1" />
+     ![WhatsApp Image 2025-10-28 at 23 10 03_f75f39fb](https://github.com/user-attachments/assets/f81c5435-12c6-4a5d-a015-699bd617f508)
 
 13. Click **Run** to execute the program.
     
